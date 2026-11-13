@@ -32,3 +32,12 @@ yarn-error.log*
 */.DS_Store
 .vscode/
 .idea/
+
+# Internal Documentation & Scratch Notes
+BACKEND_INTEGRATION.md
+EMAIL_DEMO_CONFIGURATION.md
+INTEGRATION_SUCCESS.md
+LOGO_INTEGRATION.md
+THREAT_PREDICTION_IMPLEMENTATION.md
+Gemini_Generated_Image_*.png
+test-temporal-anchor.sh
